@@ -6,3 +6,5 @@ If you'd like to chat, just do:
 
     python diega_vu.py
 
+with Python >= 3.6(.2?)
+
